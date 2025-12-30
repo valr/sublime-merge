@@ -1,2 +1,3 @@
-# sublime-merge
-My Sublime Merge Settings 
+## Sublime Merge
+
+- Settings files (My Configuration)
